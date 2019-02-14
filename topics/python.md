@@ -1,9 +1,9 @@
-#Python
+# Python
 
-##PyGame
+## PyGame
 ___
 
-###Basic PyGame Window
+### Basic PyGame Window
 
 A simple window with a game and event loop
 
